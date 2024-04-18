@@ -1,0 +1,24 @@
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.exe
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.deps.json
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.runtimeconfig.json
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.runtimeconfig.dev.json
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.dll
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.pdb
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.csprojAssemblyReference.cache
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.AssemblyInfoInputs.cache
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.AssemblyInfo.cs
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.dll
+C:\Users\Djordje\source\repos\Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.runtimeconfig.dev.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\bin\Debug\netcoreapp3.1\Singleton_Muster_Nach2.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 5 3 Singleton_Muster_Nach2\Singleton_Muster_Nach2\obj\Debug\netcoreapp3.1\Singleton_Muster_Nach2.GeneratedMSBuildEditorConfig.editorconfig
